@@ -1,1 +1,1 @@
-# ts-kanban
+# ts-todo-list
